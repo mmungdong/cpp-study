@@ -10,7 +10,7 @@ int main()
     return 0;
 }
 
-// #include <stdio.h>
+// #include <stdio.h> 
 // #include <windows.h>
 // int main()
 // {
@@ -19,3 +19,6 @@ int main()
 //     system("pause");
 //     return 0;
 // }
+// 参考：
+//     搭建：https://cloud.tencent.com/developer/article/2146057
+//     排错：https://blog.csdn.net/weixin_52867134/article/details/123863002

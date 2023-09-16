@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main1()
 {
     cout << "hello C++" << endl;   /* 终端执行编译命令：gcc hello.cpp -lstdc++ -o hello.exe */
     system("pause");
